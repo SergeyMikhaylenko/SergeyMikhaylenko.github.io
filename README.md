@@ -1,2 +1,2 @@
-# SergeyMikhaylenko.github.io
+# Сергей Михайленко
 Мой первый сайт
