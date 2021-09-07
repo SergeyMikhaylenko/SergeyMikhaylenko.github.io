@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <meta charset="UTF-8">
+    <meta name="description" content="Это моя первая страница...">
+    <meta name="author" content="Sergey">
+    <meta name="robots" content="all">
+    
+    <meta property="og:title" content="Это мояпервая страница...">
+    <title>Андрей Браун Веб-разработчик</title>
+</head>
+
+
+<body>
+
+    <header>
+        <nav>
+            <div Class="Logo">Андрей Браун</div> 
+            <div class="menu"><ul>
+                <li>Обо мне</li>
+                <li>Услуги</li>
+                <li>Кейсы</li>
+                <li>Прайс</li>
+                <li>Отзывы</li>
+                <li>Контакты</li>
+                  
+                              
+            </ul></div>
+        </nav>
+    </header>
+    
+    <div class="main"><div class="title__container">
+        
+        <h1>Привет  <br> Я Андрей Браун  </h1>
+        <h4>Фулл стек веб-разработчик</h4>
+        <input type="submit" value="Обо мне">
+        <input type="submit" value="Мои работы">  
+        
+    </div></div>
+    
+    <div>
+        <h2>Обо мне</h2>
+        
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec omare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec omare diam commodo nibh.</p> 
+       
+       
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec omare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec omare diam commodo nibh.</p> 
+        
+                <input type="submit" value="Скачать резюме">
+
+    </div>
+    
+    
+    
+    
+    
+    <div>
+       
+        <h2> Что я умею </h2>
+        
+    </div>
+    
+    <div><ul>
+       
+        <li>Веб-дизайнер</li>
+        <p>Lorem ipsum dolor sit amet placerat<br> facilisis feils mi in tempus eleifend<br> pellentesgue natogue etiam.</p>
+        
+        <li>Разработка</li>
+        <p>Lorem ipsum dolor sit amet placerat<br> facilisis mi in tempus eleifend<br> pellentesgue </p>
+        
+        <li>CEO-Оптимизация</li>
+        <p>Lorem ipsum dolor sit amet placerat<br> facilisis mi in tempus eleifend<br> pellentesgue natogue etiam. </p>
+        
+        <li>Маркетинг</li>
+        <p>Lorem ipsum dolor sit amet placerat<br> facilisis mi in tempus eleifend<br> pellentesgue natogue. </p>
+        
+        </ul></div>
+        
+        <h2> КЕЙСЫ </h2>
+        <p>Lorem ipsum dolor sit amet,consectetur adipiscing elit. Duis sed Dapibus leo nec omare diamcoccodo nibh ante facilisis. </p>
+        
+        <img src="img/Screenshot_1.png" alt="">
+      
+              
+              
+               
+               
+                
+    
+    
+    
+    
+   <div>
+       <big><b>
+           CLIENT:
+       </b></big>
+       <SMALL>Какая-то компания</SMALL>
+       
+       <div></div>
+       
+       <big><b>
+           WEBSITE:
+       </b></big>
+       
+       <a href="Http://www.somedomain.com">Http://www.somedomain.com</a>
+       
+   </div> 
+   
+   
+   
+   <div>
+    <b>Название проекта</b>  
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse unde enim vitae. Voluptate doloremque nisi, fuga eveniet dolorem eos dolores nemo sit cumque maxime consequatur, dolorum eaque? Maxime consectetur aliquam numquam animi itaque hic similique nesciunt, ipsum dolores cum quisquam error perferendis inventore recusandae iure ut obcaecati iste, in nostrum eos vitae!</p> 
+       
+       
+   </div>
+   
+   <div>
+     <h1>Расчёт стоймости</h1>
+     <big><b>ТИП САЙТА</b></big>
+      <select name="list1" id="list" > 
+              <option value="Opt1"> </option>
+              
+              
+              
+               
+           </select>
+      </div>
+   
+   
+   
+     <div>
+    
+     <big><b>ДИЗАЙН</b></big>
+      <select name="list1" id="list" > 
+      <option value="Opt1"> </option>
+              
+              
+              
+               
+           </select>
+           
+       </div>
+   
+   
+   
+   
+   
+   
+     <div><UL>
+    
+     <big><b>АДАПТИВНОСТЬ</b></big>
+     <select name="list1" id="list" > 
+     <option value="Opt1"> </option>
+              
+              
+              
+               
+           </select>
+      
+     <p><b>Сроки</b></p>
+     <p><b>Стоймость</b></p>
+    
+     <h1>НЕМНОГО СТАТИСТИКИ</h1>
+    
+    
+     <li><big><b>120</b></big></li>
+     <li>СЧАСТЛИВЫХ КЛИЕНТОВ</li>
+     <li><big><b>4,600</b></big></li>
+     <li>ЧАСОВ РАБОТЫ</li>
+     <li><big><b>340</b></big></li>
+     <li>ПРОЕКТОВ ЗАВЕРШЕНО</li>
+    
+     <h2>ОТЗЫВЫ</h2>
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec omare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapidus leo nec ornare diam. 
+    
+     <br>Михаил, Ген директор ПАО "Газпром".</p>
+    
+     <input type="radio" name="text_input" value="1">
+     <input type="radio" name="text_input" value="2">
+     <input type="radio" name="text_input" value="3">
+    
+    
+    
+    
+      </UL></div>
+      
+      
+      <div>
+          <h2>МОИ КОНТАКТЫ</h2>
+          <p>Lorem ispsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leo nec omare diamcoccodo</p>
+          <ul>
+              <li><p>Санкт-Петербург <br>Невский проспект</p></li>
+              <li>info@companyname.com</li>
+              <li>+7 999 999-99-99</li>
+              <h2>ОСТАВЬТЕ МНЕ СООБЩЕНИЕ</h2>
+              
+               
+          </ul>
+           <form action="#">
+           <input type="text" name="text_input" value="" placeholder="имя">
+           <input type="text" name="text_input" value="" placeholder="Email">
+           <textarea name="name1" id="1" cols="100" rows="10">
+           
+            
+        </textarea>
+          
+          
+          <input type="submit" value="Отправить">
+           
+           
+           
+           
+           
+           
+          </form>
+          
+           
+          
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+      
+</body>
+
+</html>
